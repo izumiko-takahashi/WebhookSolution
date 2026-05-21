@@ -41,7 +41,7 @@ Edita `appsettings.json`:
 }
 ```
 
-### 2. Crear tabla (elige una opción)
+### 2. Crear tabla
 
 **Script SQL directo:**
 ```bash
